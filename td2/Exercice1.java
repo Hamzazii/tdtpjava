@@ -13,7 +13,7 @@ public class Exercice1 {
 
     private char nom;
     private double x;
-    public Point(char nom,double x){
+    public  Point(char nom,double x){
         this.nom=nom;
         this.x=x;
     }

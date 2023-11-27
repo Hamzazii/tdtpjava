@@ -19,6 +19,6 @@ public class Exerciceb10 {
             System.out.println(T+" est cubique");
         }
         else
-            System.out.println(T+" n'est pas cubique ");
+            System.out.println(T+" n'est pas cubique");
     }
 }
